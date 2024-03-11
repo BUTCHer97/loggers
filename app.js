@@ -13,10 +13,6 @@ const start = async () => {
     app.post('/log', (req, res) => {
         const body = JSON.stringify(req.body);
 
-        if (!body) {
-            return res.status(400).json({ error: 'Body is required' });
-        }
-
          const currentDate = new Date().toISOString().split('T')[0];
          const fileName = `${currentDate}.txt`;
          const filePath = path.join(__dirname, 'logs', fileName); 
