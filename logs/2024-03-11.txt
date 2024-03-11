@@ -1,0 +1,8 @@
+Logged:{"tag":"[UBP][BSP_REPORTS][REQUEST][PATH:' + verb + path + ']","headers":{"authenication":"9oijfadlkjasldfjlksafd"},"body":{"test":"this is body testing lang"}}Logged:{"tag":"[UBP][BSP_REPORTS][REQUEST][PATH:' + verb + path + ']","headers":{"authenication":"9oijfadlkjasldfjlksafd"},"body":{"test":"this is body testing lang"}}
+Logged:{"tag":"[UBP][BSP_REPORTS][REQUEST][PATH:' + verb + path + ']","headers":{"authenication":"9oijfadlkjasldfjlksafd"},"body":{"test":"this is body testing lang"}}
+Logged:{"tag":"[UBP][BSP_REPORTS][REQUEST][PATH:' + verb + path + ']","headers":{"authenication":"9oijfadlkjasldfjlksafd"},"body":{"test":"this is body testing lang"}}
+Logged:{"tag":"[UBP][BSP_REPORTS][REQUEST][PATH:' + verb + path + ']","headers":{"authenication":"9oijfadlkjasldfjlksafd"},"body":{"test":"this is body testing lang ulit"}}
+Logged:{"timeStamp":"currentdate","tag":"[UBP][BSP_REPORTS][REQUEST][PATH:' + verb + path + ']","headers":{"authenication":"9oijfadlkjasldfjlksafd"},"body":{"test":"this is body testing lang ulit"}}
+Logged:{"timeStamp":"currentdate","tag":"[UBP][BSP_REPORTS][REQUEST][PATH:' + verb + path + ']","headers":{"authenication":"9oijfadlkjasldfjlksafd"},"body":{"test":"this is body testing lang ulit"}}
+Logged:{"timeStamp":"currentdate","tag":"[UBP][BSP_REPORTS][REQUEST][PATH:' + verb + path + ']","headers":{"authenication":"9oijfadlkjasldfjlksafd"},"body":{"test":"this is body testing lang ulit"}}
+Logged:{"timeStamp":"currentdate","tag":"[UBP][BSP_REPORTS][REQUEST][PATH:' + verb + path + ']","headers":{"authenication":"9oijfadlkjasldfjlksafd---leszzgo"}}
